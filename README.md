@@ -9,8 +9,6 @@
 ### Click on search and write 
 ```bash
 # 
-```bash
-
 $ npx create-next-app@latest
 √ What is your project named? demo
 √ Would you like to use TypeScript? ... No / Yes √
